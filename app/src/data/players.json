@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Lebron James",
+        "position": "SF",
+        "team": "Los Angeles Lakers"
+    },
+
+    {
+        "id": 2,
+        "name": "Anthony Edwards",
+        "position": "SG",
+        "team": "Minnesota Timberwolves"
+    },
+
+    {
+        "id": 3,
+        "name": "Shai Gilgeous-Alexander",
+        "position": "PG",
+        "team": "Oklahoma City Thunder"
+    },
+
+    {
+        "id": 4,
+        "name": "Cooper Flagg",
+        "position": "PF",
+        "team": "Dallas Mavericks"
+    },
+
+    {
+        "id": 5,
+        "name": "Joel Embiid",
+        "position": "C",
+        "team": "Philadelphia 76ers"
+    }
+]
