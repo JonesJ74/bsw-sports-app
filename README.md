@@ -5,52 +5,52 @@ A mobile app built with React Native + Expo that allows users to search players,
 ## Features
 Player Search
 
-   Search through a player database
+   -Search through a player database
 
-   Filter results by name
+   -Filter results by name
 
-   Displays key info at a glance
+   -Displays key info at a glance
 
 👤 Player Detail Pages(In Progress)
 
-   Dynamic pages for each player
+   -Dynamic pages for each player
 
-   Shows detailed stats, position, team info, etc.
+   -Shows detailed stats, position, team info, etc.
 
-   Extensible for advanced analytics later   
+   -Extensible for advanced analytics later   
 
 📝 Real-Time Stats Tracking (In Progress)
 
-   Track points, rebounds, assists, steals, blocks
+   -Track points, rebounds, assists, steals, blocks
 
-   Reset and save game stats
+   -Reset and save game stats
 
-   Designed for coaches, players, and fans
+   -Designed for coaches, players, and fans
 
 🗂 Local Data Storage (Planned)
 
-   Save game logs
+   -Save game logs
 
-   Track player improvements over time
+   -Track player improvements over time
 
 🎥 Highlights System (Future Feature)
 
-   Potential integration for real-time or post-game highlights
+   -Potential integration for real-time or post-game highlights
 
-   Connects to external sports APIs
+   -Connects to external sports APIs
 
 ## Tech Stack
-   React Native
+   -React Native
 
-   Expo
+   -Expo
 
-   JavaScript
+   -JavaScript
 
-   React Navigation
+   -React Navigation
 
-   AsyncStorage (planned)
+   -AsyncStorage (planned)
 
-   Custom player dataset (players.json)
+   -Custom player dataset (players.json)
 ## Get started
 
 
@@ -77,43 +77,43 @@ Player Search
 ## How It Works
 Player Search Logic
 
-   Loads players from players.json
+   -Loads players from players.json
 
-   Converts query to lowercase
+   -Converts query to lowercase
 
-   Filters player list by matching names
+   -Filters player list by matching names
 
 Dynamic Player Page(in progress)
 
-   Uses React Navigation route params
+   -Uses React Navigation route params
 
-   Displays player-specific data based on selected card
+   -Displays player-specific data based on selected card
 
 Stats Tracking(in progress)
 
-   Tracks each stat using React state
+   -Tracks each stat using React state
 
-   Buttons for +1, -1, reset
+   -Buttons for +1, -1, reset
 
-   Will soon support saving stats to storage
+   -Will soon support saving stats to storage
 
 ## Current Roadmap
 
-   Setup Expo project
+   -Setup Expo project
 
-   Build Player Search screen
+   -Build Player Search screen
 
-   Connect player data
+   -Connect player data
 
-   Add Player Detail pages(we are here)
+   -Add Player Detail pages(we are here)
 
-   Implement Stats Tracking
+   -Implement Stats Tracking
 
-   Add local storage for saved games
+   -Add local storage for saved games
 
-   UI polish and animations
+   -UI polish and animations
 
-   Add highlight support using sports APIs
+   -Add highlight support using sports APIs
 
 ## Contributions
    This is a personal portfolio project, however one day I may add this to the app store. Contributions, comments, and suggestions are not only welcomed but encouraged.
